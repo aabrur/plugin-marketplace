@@ -255,12 +255,12 @@
     },
     {
       "name": "hypertaks",
-      "description": "Founder Operating System for AI agents. Turns a request into a governed contract, specialist execution, verified evidence, and a founder-grade result with strict SOP (intake → formulation → implementation → integration → documentation). Provides five public skills: /hypertaks, /hypertaks-verify, /hypertaks-brain, /hypertaks-graph, /hypertaks-continuity.",
+      "description": "Founder Operating System for AI agents with automatic repository lifecycle, Local Intelligence Graph, and Orchestrator V2. Turns a request into a governed contract, specialist execution, verified evidence, and a founder-grade result. Provides five canonical public skills: /hypertaks, /hypertaks-verify, /hypertaks-brain, /hypertaks-graph, /hypertaks-continuity.",
       "category": "development",
       "source": {
         "source": "url",
         "url": "https://github.com/aabrur/hypertaks-agent.git",
-        "sha": "24af4686a9fdb6f43ca781dcf63ca0ecee544c98"
+        "sha": "4d7ce54eddae2f644af3e9b7026a0c4a471aeaf4"
       },
       "homepage": "https://github.com/aabrur/hypertaks-agent",
       "keywords": ["hypertaks", "founder-os", "agent-operating-system", "crimson-rift"],
